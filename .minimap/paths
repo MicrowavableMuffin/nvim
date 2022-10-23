@@ -1,0 +1,2 @@
+paths["vim"]=$HOME/.config/nvim/plugs/wfxr/minimap.vim/autoload/minimap/
+paths["minimap"]=$HOME/.config/nvim/plugs/wfxr/minimap.vim/plugin/

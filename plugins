@@ -1,0 +1,13 @@
+ervandew/supertab
+hrsh7th/cmp-buffer
+hrsh7th/cmp-cmdline
+hrsh7th/cmp-nvim-lsp
+hrsh7th/cmp-path
+hrsh7th/nvim-cmp
+junegunn/vim-easy-align
+kien/ctrlp.vim
+neovim/nvim-lspconfig
+nvim-treesitter/nvim-treesitter
+tpope/vim-endwise
+wfxr/minimap.vim
+williamboman/nvim-lsp-installer
